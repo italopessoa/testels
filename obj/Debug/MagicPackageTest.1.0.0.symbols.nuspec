@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>MagicPackageTest</id>
+    <version>1.0.0</version>
+    <authors>MagicPackageTest</authors>
+    <owners>MagicPackageTest</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>https://github.com/italopessoa/Neo4j.Map.Extension/blob/master/LICENSE</licenseUrl>
+    <description>Package Description</description>
+    <repository type="Git" url="https://github.com/italopessoa/testels" />
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.1" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\italo\Documents\Visual Studio 2017\MagicPackageTest\testels\bin\Debug\netcoreapp2.1\MagicPackageTest.pdb" target="lib\netcoreapp2.1\MagicPackageTest.pdb" />
+  </files>
+</package>
